@@ -54,12 +54,13 @@ The project includes a graphical interface that allows users to visualize the ma
 
 Collaboration:
 
+Developed in collaboration with a co-developer as part of the final laboratory project for the course.
 
-Developed in collaboration with a fellow student as part of the final laboratory project for the course.
 **Collaborators:**
-- [Enmanuel Carrasco](https://github.com/ECarrasco22)
-- [Dominique Jeldes](https://github.com/Djeldes75)
 
+- [Enmanuel Carrasco](https://github.com/ECarrasco22) (Me)
+- [Dominique Jeldes](https://github.com/Djeldes75)  (My project partner)
+ 
 ## 🛠️ Technologies and Tools
 
 - C++
@@ -73,4 +74,4 @@ Developed in collaboration with a fellow student as part of the final laboratory
 This repository serves as an academic record of the work completed throughout the course. It provides a structured reference for reviewing algorithm implementations, reinforcing theoretical concepts, and documenting practical problem-solving exercises.
 
 ## About
-Coursework by Enmanuel Carrasco for the Systems Engineering program at [INTEC](https://www.intec.edu.do/)(Instituto Tecnológico de Santo Domingo).
+Coursework by Enmanuel Carrasco for the Systems Engineering program at [INTEC](https://www.intec.edu.do/) (Instituto Tecnológico de Santo Domingo).
