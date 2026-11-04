@@ -8,8 +8,20 @@ It serves as a collection of practical examples and academic work focused on alg
 
 The repository is organized into two main sections:
 
-- **Theory:** Contains algorithm implementations, exercises, examples developed during classes, and PDF documents used as supporting course materials.
-- **Laboratory:** Contains practical assignments and activities completed during laboratory sessions, including the final course project.
+- **Teoria:** Contains algorithm implementations, exercises, examples developed during classes, and PDF documents used as supporting course materials.
+- **Laboratorio:** Contains practical assignments and activities completed during laboratory sessions, including the final course project.
+
+```text
+DSA II/
+├── Teoria/
+│   ├── PDFs Documentos/
+│   │   └── Course materials and supporting documentation
+│   │
+│   └── Exercises and examples developed during classes
+│
+└── Laboratorio/
+    └── Laboratory assignments, practical exercises and final project
+```
 
 ## 📚 Topics and Projects
 
