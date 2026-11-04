@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Primos_Gemelos\\x64\\Debug\\Primos_Gemelos.obj",
+            "outputs": [
+                "Primos_Gemelos\\x64\\Debug\\Primos_Gemelos.cpp.obj.dt.module.json",
+                "Primos_Gemelos\\x64\\Debug\\Primos_Gemelos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

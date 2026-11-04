@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Triangulos\\x64\\Debug\\Triangulos.obj",
+            "outputs": [
+                "Triangulos\\x64\\Debug\\Triangulos.cpp.obj.dt.module.json",
+                "Triangulos\\x64\\Debug\\Triangulos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

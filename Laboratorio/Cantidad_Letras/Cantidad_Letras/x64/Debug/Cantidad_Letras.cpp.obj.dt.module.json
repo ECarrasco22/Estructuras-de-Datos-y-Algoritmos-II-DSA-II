@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Cantidad_Letras\\x64\\Debug\\Cantidad_Letras.obj",
+            "outputs": [
+                "Cantidad_Letras\\x64\\Debug\\Cantidad_Letras.cpp.obj.dt.module.json",
+                "Cantidad_Letras\\x64\\Debug\\Cantidad_Letras.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TicTacToe\\x64\\Debug\\TicTacToe.obj",
+            "outputs": [
+                "TicTacToe\\x64\\Debug\\TicTacToe.cpp.obj.dt.module.json",
+                "TicTacToe\\x64\\Debug\\TicTacToe.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

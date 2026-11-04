@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Mazo_De_Cartas\\x64\\Debug\\Mazo_De_Cartas.obj",
+            "outputs": [
+                "Mazo_De_Cartas\\x64\\Debug\\Mazo_De_Cartas.cpp.obj.dt.module.json",
+                "Mazo_De_Cartas\\x64\\Debug\\Mazo_De_Cartas.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

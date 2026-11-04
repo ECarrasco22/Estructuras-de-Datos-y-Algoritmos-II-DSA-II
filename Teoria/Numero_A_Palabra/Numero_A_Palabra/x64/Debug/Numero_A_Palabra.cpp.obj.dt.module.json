@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Numero_A_Palabra\\x64\\Debug\\Numero_A_Palabra.obj",
+            "outputs": [
+                "Numero_A_Palabra\\x64\\Debug\\Numero_A_Palabra.cpp.obj.dt.module.json",
+                "Numero_A_Palabra\\x64\\Debug\\Numero_A_Palabra.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

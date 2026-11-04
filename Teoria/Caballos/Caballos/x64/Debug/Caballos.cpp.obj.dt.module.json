@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Caballos\\x64\\Debug\\Caballos.obj",
+            "outputs": [
+                "Caballos\\x64\\Debug\\Caballos.cpp.obj.dt.module.json",
+                "Caballos\\x64\\Debug\\Caballos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

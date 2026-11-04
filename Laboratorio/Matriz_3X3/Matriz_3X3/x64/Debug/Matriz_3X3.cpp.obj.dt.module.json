@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Matriz_3X3\\x64\\Debug\\Matriz_3X3.obj",
+            "outputs": [
+                "Matriz_3X3\\x64\\Debug\\Matriz_3X3.cpp.obj.dt.module.json",
+                "Matriz_3X3\\x64\\Debug\\Matriz_3X3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Cadena_S.09fafb94\\x64\\Debug\\Cadena_Subsecuente.obj",
+            "outputs": [
+                "Cadena_S.09fafb94\\x64\\Debug\\Cadena_Subsecuente.cpp.obj.dt.module.json",
+                "Cadena_S.09fafb94\\x64\\Debug\\Cadena_Subsecuente.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

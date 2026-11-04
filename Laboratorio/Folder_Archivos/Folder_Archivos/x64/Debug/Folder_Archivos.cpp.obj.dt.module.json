@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Folder_Archivos\\x64\\Debug\\Folder_Archivos.obj",
+            "outputs": [
+                "Folder_Archivos\\x64\\Debug\\Folder_Archivos.cpp.obj.dt.module.json",
+                "Folder_Archivos\\x64\\Debug\\Folder_Archivos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

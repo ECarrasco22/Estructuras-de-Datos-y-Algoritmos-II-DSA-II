@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Calculo_.718cad0c\\x64\\Debug\\Calculo_Amortizacion.obj",
+            "outputs": [
+                "Calculo_.718cad0c\\x64\\Debug\\Calculo_Amortizacion.cpp.obj.dt.module.json",
+                "Calculo_.718cad0c\\x64\\Debug\\Calculo_Amortizacion.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

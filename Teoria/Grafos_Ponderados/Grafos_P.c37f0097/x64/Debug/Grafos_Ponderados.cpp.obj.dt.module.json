@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Grafos_P.c37f0097\\x64\\Debug\\Grafos_Ponderados.obj",
+            "outputs": [
+                "Grafos_P.c37f0097\\x64\\Debug\\Grafos_Ponderados.cpp.obj.dt.module.json",
+                "Grafos_P.c37f0097\\x64\\Debug\\Grafos_Ponderados.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

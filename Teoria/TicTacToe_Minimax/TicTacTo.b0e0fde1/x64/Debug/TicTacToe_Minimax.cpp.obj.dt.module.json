@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TicTacTo.b0e0fde1\\x64\\Debug\\TicTacToe_Minimax.obj",
+            "outputs": [
+                "TicTacTo.b0e0fde1\\x64\\Debug\\TicTacToe_Minimax.cpp.obj.dt.module.json",
+                "TicTacTo.b0e0fde1\\x64\\Debug\\TicTacToe_Minimax.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

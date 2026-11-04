@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Combinac.9b943e27\\x64\\Debug\\Combinaciones_Unicas.obj",
+            "outputs": [
+                "Combinac.9b943e27\\x64\\Debug\\Combinaciones_Unicas.cpp.obj.dt.module.json",
+                "Combinac.9b943e27\\x64\\Debug\\Combinaciones_Unicas.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
