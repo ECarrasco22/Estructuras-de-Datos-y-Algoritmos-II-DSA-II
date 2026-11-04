@@ -52,6 +52,14 @@ The project includes a graphical interface that allows users to visualize the ma
 - Python
 - Tkinter (GUI)
 
+Collaboration:
+
+
+Developed in collaboration with a fellow student as part of the final laboratory project for the course.
+**Collaborators:**
+- [Enmanuel Carrasco](https://github.com/ECarrasco22)
+- [Dominique Jeldes](https://github.com/Djeldes75)
+
 ## 🛠️ Technologies and Tools
 
 - C++
@@ -64,3 +72,5 @@ The project includes a graphical interface that allows users to visualize the ma
 
 This repository serves as an academic record of the work completed throughout the course. It provides a structured reference for reviewing algorithm implementations, reinforcing theoretical concepts, and documenting practical problem-solving exercises.
 
+## About
+Coursework by Enmanuel Carrasco for the Systems Engineering program at [INTEC](https://www.intec.edu.do/)(Instituto Tecnológico de Santo Domingo).
